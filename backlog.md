@@ -19,4 +19,3 @@
 ## Could Haves
 ### As any User,
 - I would love to see the detailed portfolio of the webpage owner
-  
